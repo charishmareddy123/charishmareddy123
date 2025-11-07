@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Charishma Reddy C
 
-🎓 I'm recently pursued **MSc in Data Science at Reva University**.  
+🎓 I have recently completed my **MSc in Data Science at Reva University**  
 💡 Passionate about turning data into meaningful insights and intelligent solutions.  
 🌱 I’m currently learning advanced **Machine Learning**, **Deep Learning**, and **Data Visualization**.  
 💻 I love working on projects related to **AI, IoT, and Predictive Analytics**.  
