@@ -26,7 +26,7 @@
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/charishmareddyc/)  
-- 📧 Email: charishmareddyc@gmail.com  
+- 📧 Email: charishmareddyc2001@gmail.com  
 
 ---
 
